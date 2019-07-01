@@ -1,0 +1,229 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_31" data-name="Path 31" d="M1897.909,142.607a26.123,26.123,0,1,1-26.123-26.122A26.012,26.012,0,0,1,1897.909,142.607Z" transform="translate(-1845.664 -116.485)" fill="#878787"/>
+    </clipPath>
+    <filter id="Rectangle_108" x="427.5" y="469.5" width="423.367" height="160.481" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_109" x="734.5" y="614.5" width="116.367" height="100.481" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Tutorial7">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Tutorial7" clip-path="url(#clip-Tutorial7)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <rect id="Rectangle_8" data-name="Rectangle 8" width="1920" height="451" transform="translate(0 629)" fill="#4a4a4a"/>
+    <g id="Group_54" data-name="Group 54" transform="translate(803.768 -600.335) rotate(30)">
+      <path id="Union_4" data-name="Union 4" d="M331.175,436.712H0V20.54L41.663,0,316.128,413.868l20.3-26.675,27.415,35.074-32.588,14.411.023.035Z" transform="translate(1395 665.125)" fill="#8b9d2a"/>
+      <rect id="Rectangle_90" data-name="Rectangle 90" width="335.988" height="424.549" transform="translate(1435.702 664.724)" fill="#bac11a"/>
+      <text id="Employee_handbook" data-name="Employee 
+handbook" transform="translate(1461.281 753.117)" fill="#fff" font-size="42" font-family="Silkscreen" letter-spacing="0.1em"><tspan x="0" y="0">Employee </tspan><tspan x="0" y="50">handbook</tspan></text>
+    </g>
+    <g id="Group_71" data-name="Group 71" transform="translate(528.299 3607.929) rotate(19)">
+      <rect id="Rectangle_94" data-name="Rectangle 94" width="343" height="587" transform="translate(-7 -2891)" fill="#fff6b4"/>
+      <g id="Group_63" data-name="Group 63" transform="translate(-7 -2840.5)">
+        <line id="Line_4" data-name="Line 4" x2="343" transform="translate(0 37)" fill="none" stroke="#707070" stroke-width="1"/>
+        <line id="Line_2" data-name="Line 2" x2="343" fill="none" stroke="#707070" stroke-width="1"/>
+        <line id="Line_3" data-name="Line 3" x2="343" transform="translate(0 19)" fill="none" stroke="#707070" stroke-width="1"/>
+        <line id="Line_5" data-name="Line 5" x2="343" transform="translate(0 56)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g id="Group_64" data-name="Group 64" transform="translate(-7 -2763.5)">
+        <line id="Line_4-2" data-name="Line 4" x2="343" transform="translate(0 37)" fill="none" stroke="#707070" stroke-width="1"/>
+        <line id="Line_2-2" data-name="Line 2" x2="343" fill="none" stroke="#707070" stroke-width="1"/>
+        <line id="Line_3-2" data-name="Line 3" x2="343" transform="translate(0 19)" fill="none" stroke="#707070" stroke-width="1"/>
+        <line id="Line_5-2" data-name="Line 5" x2="343" transform="translate(0 56)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g id="Group_65" data-name="Group 65" transform="translate(-7 -2686.5)">
+        <line id="Line_4-3" data-name="Line 4" x2="343" transform="translate(0 37)" fill="none" stroke="#707070" stroke-width="1"/>
+        <line id="Line_2-3" data-name="Line 2" x2="343" fill="none" stroke="#707070" stroke-width="1"/>
+        <line id="Line_3-3" data-name="Line 3" x2="343" transform="translate(0 19)" fill="none" stroke="#707070" stroke-width="1"/>
+        <line id="Line_5-3" data-name="Line 5" x2="343" transform="translate(0 56)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g id="Group_66" data-name="Group 66" transform="translate(-7 -2609.5)">
+        <line id="Line_4-4" data-name="Line 4" x2="343" transform="translate(0 37)" fill="none" stroke="#707070" stroke-width="1"/>
+        <line id="Line_2-4" data-name="Line 2" x2="343" fill="none" stroke="#707070" stroke-width="1"/>
+        <line id="Line_3-4" data-name="Line 3" x2="343" transform="translate(0 19)" fill="none" stroke="#707070" stroke-width="1"/>
+        <line id="Line_5-4" data-name="Line 5" x2="343" transform="translate(0 56)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g id="Group_67" data-name="Group 67" transform="translate(-7 -2532.5)">
+        <line id="Line_4-5" data-name="Line 4" x2="343" transform="translate(0 37)" fill="none" stroke="#707070" stroke-width="1"/>
+        <line id="Line_2-5" data-name="Line 2" x2="343" fill="none" stroke="#707070" stroke-width="1"/>
+        <line id="Line_3-5" data-name="Line 3" x2="343" transform="translate(0 19)" fill="none" stroke="#707070" stroke-width="1"/>
+        <line id="Line_5-5" data-name="Line 5" x2="343" transform="translate(0 56)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g id="Group_68" data-name="Group 68" transform="translate(-7 -2455.5)">
+        <line id="Line_4-6" data-name="Line 4" x2="343" transform="translate(0 37)" fill="none" stroke="#707070" stroke-width="1"/>
+        <line id="Line_2-6" data-name="Line 2" x2="343" fill="none" stroke="#707070" stroke-width="1"/>
+        <line id="Line_3-6" data-name="Line 3" x2="343" transform="translate(0 19)" fill="none" stroke="#707070" stroke-width="1"/>
+        <line id="Line_5-6" data-name="Line 5" x2="343" transform="translate(0 56)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g id="Group_69" data-name="Group 69" transform="translate(-7 -2378.5)">
+        <line id="Line_4-7" data-name="Line 4" x2="343" transform="translate(0 37)" fill="none" stroke="#707070" stroke-width="1"/>
+        <line id="Line_2-7" data-name="Line 2" x2="343" fill="none" stroke="#707070" stroke-width="1"/>
+        <line id="Line_3-7" data-name="Line 3" x2="343" transform="translate(0 19)" fill="none" stroke="#707070" stroke-width="1"/>
+        <line id="Line_5-7" data-name="Line 5" x2="343" transform="translate(0 56)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <text id="HANK_TILLMAN_DETAILS" data-name="HANK TILLMAN DETAILS" transform="translate(25 -2856)" fill="#878787" font-size="22" font-family="Silkscreen"><tspan x="0" y="0">HANK TILLMAN DETAILS</tspan></text>
+    </g>
+    <g id="Group_52" data-name="Group 52" transform="translate(-261.25 194.865) rotate(-22)">
+      <path id="Union_3" data-name="Union 3" d="M784.87,2693.651H520V2186.8l21.147-15.522,221.437,474.359,8.868-11.1L805.8,2676.4l-20.84,17.17.036.077Z" transform="translate(-465 -1498.798)" fill="#919191"/>
+      <rect id="Rectangle_87" data-name="Rectangle 87" width="265" height="506.854" transform="translate(76 672)" fill="#c7c8ca"/>
+      <rect id="Rectangle_88" data-name="Rectangle 88" width="221.86" height="422.336" transform="translate(98.01 712.498)" fill="#606060"/>
+      <g id="Rectangle_89" data-name="Rectangle 89" transform="translate(155.236 687.847)" fill="#c7c8ca" stroke="#707070" stroke-width="4">
+        <rect width="107.409" height="12.326" stroke="none"/>
+        <rect x="2" y="2" width="103.409" height="8.326" fill="none"/>
+      </g>
+    </g>
+    <rect id="Rectangle_7" data-name="Rectangle 7" width="1931" height="629" transform="translate(-8)" fill="#67b3ff"/>
+    <g id="Group_40" data-name="Group 40" transform="translate(-39 20)">
+      <g id="Group_39" data-name="Group 39">
+        <rect id="Rectangle_73" data-name="Rectangle 73" width="861" height="595" transform="translate(166 -90)" fill="#70899a"/>
+        <rect id="Rectangle_75" data-name="Rectangle 75" width="861" height="595" transform="translate(156 -96)" fill="#969696"/>
+        <g id="Group_38" data-name="Group 38" transform="translate(-634 -319)">
+          <rect id="Rectangle_74" data-name="Rectangle 74" width="861" height="595" transform="translate(785 213)" fill="#bfbfbf"/>
+          <text id="_7" data-name="7" transform="translate(812 351)" fill="#8d8d8d" font-size="29" font-family="Silkscreen" letter-spacing="0.1em"><tspan x="0" y="0">7</tspan></text>
+          <text id="_8" data-name="8" transform="translate(952 351)" fill="#8d8d8d" font-size="29" font-family="Silkscreen" letter-spacing="0.1em"><tspan x="0" y="0">8</tspan></text>
+          <text id="_14" data-name="14" transform="translate(812 466)" fill="#8d8d8d" font-size="29" font-family="Silkscreen" letter-spacing="0.1em"><tspan x="0" y="0">14</tspan></text>
+          <text id="_15" data-name="15" transform="translate(952 466)" fill="#8d8d8d" font-size="29" font-family="Silkscreen" letter-spacing="0.1em"><tspan x="0" y="0">15</tspan></text>
+          <text id="_21" data-name="21" transform="translate(812 581)" fill="#8d8d8d" font-size="29" font-family="Silkscreen" letter-spacing="0.1em"><tspan x="0" y="0">21</tspan></text>
+          <text id="_22" data-name="22" transform="translate(952 581)" fill="#8d8d8d" font-size="29" font-family="Silkscreen" letter-spacing="0.1em"><tspan x="0" y="0">22</tspan></text>
+          <text id="_28" data-name="28" transform="translate(812 696)" fill="#8d8d8d" font-size="29" font-family="Silkscreen" letter-spacing="0.1em"><tspan x="0" y="0">28</tspan></text>
+          <text id="_29" data-name="29" transform="translate(952 696)" fill="#8d8d8d" font-size="29" font-family="Silkscreen" letter-spacing="0.1em"><tspan x="0" y="0">29</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Group_45" data-name="Group 45" transform="translate(40 156.43)">
+      <g id="Group_41" data-name="Group 41" transform="translate(1659.206 75.687) rotate(13)">
+        <rect id="Rectangle_76" data-name="Rectangle 76" width="14.665" height="353.429" transform="translate(0 27.864)" fill="#ffe833"/>
+        <rect id="Rectangle_77" data-name="Rectangle 77" width="14.665" height="353.429" transform="translate(13.932 27.864)" fill="#c3ac32"/>
+        <rect id="Rectangle_78" data-name="Rectangle 78" width="28.597" height="13.932" transform="translate(0 13.932)"/>
+        <rect id="Rectangle_79" data-name="Rectangle 79" width="26.397" height="13.932" transform="translate(1.467)" fill="#ff80d0"/>
+      </g>
+      <g id="Group_44" data-name="Group 44" transform="translate(1494.875 63.07)">
+        <g id="Group_43" data-name="Group 43" transform="matrix(0.998, 0.07, -0.07, 0.998, 94.219, 0)">
+          <path id="Path_52" data-name="Path 52" d="M1-.07,24.931,0V377.627H0Z" transform="translate(8.799 70.393)" fill="#555"/>
+          <g id="Group_42" data-name="Group 42" transform="translate(0 0)">
+            <rect id="Rectangle_80" data-name="Rectangle 80" width="27.13" height="128.32" transform="translate(8.066)"/>
+            <rect id="Rectangle_82" data-name="Rectangle 82" width="5.866" height="90.924" transform="translate(0)"/>
+            <rect id="Rectangle_83" data-name="Rectangle 83" width="5.866" height="22.731" transform="translate(5.133)"/>
+          </g>
+        </g>
+        <path id="Path_30" data-name="Path 30" d="M0,0H177.631L165.464,273.138H12.166Z" transform="translate(0 184.362)" fill="#3c5769"/>
+      </g>
+    </g>
+    <path id="Path_1" data-name="Path 1" d="M1275.632,907.88h-266.92c-3.251,0-6.245,1.233-7.812,3.219l-84.665,211.769c-3.268,4.141,1.031,9.208,7.812,9.208H1360.3c6.782,0,11.081-5.067,7.812-9.208L1283.444,911.1C1281.878,909.113,1278.884,907.88,1275.632,907.88Z" transform="translate(-182.102 -94.79)" fill="#d8d8d8"/>
+    <rect id="Rectangle_71" data-name="Rectangle 71" width="1260" height="931.388" transform="translate(342 13)" fill="#efefef"/>
+    <rect id="Rectangle_68" data-name="Rectangle 68" width="1230" height="803.388" transform="translate(356 26)" fill="#606060"/>
+    <rect id="Rectangle_15" data-name="Rectangle 15" width="1156.521" height="719.986" rx="3" transform="translate(393.903 59.87)" fill="#7a8690"/>
+    <rect id="Rectangle_16" data-name="Rectangle 16" width="1006.246" height="640.868" transform="translate(522.523 142.208)" fill="#efefef"/>
+    <rect id="Rectangle_29" data-name="Rectangle 29" width="612.695" height="29.544" transform="translate(612.763 79.509)" fill="#a7afb5"/>
+    <g id="Group_8" data-name="Group 8" transform="translate(622.619 89.509)">
+      <circle id="Ellipse_5" data-name="Ellipse 5" cx="4.043" cy="4.043" r="4.043" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2.687"/>
+      <line id="Line_1" data-name="Line 1" x2="4.354" y2="4.976" transform="translate(6.842 6.842)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2.687"/>
+    </g>
+    <g id="Group_9" data-name="Group 9" transform="translate(522.591 141.897)">
+      <rect id="Rectangle_31" data-name="Rectangle 31" width="1006.341" height="43.382" fill="#efefef" stroke="#b2b3b5" stroke-miterlimit="10" stroke-width="3"/>
+      <text id="The_Sender_Goes_Here" data-name="The Sender Goes Here" transform="translate(54.871 24.63)" font-size="12" font-family="IBMPlexSans-SemiBold, IBM Plex Sans" font-weight="600"><tspan x="0" y="0">The Sender Goes Here</tspan></text>
+      <text id="Subject_line_of_the_entire_email_would_be_here_in_bold._" data-name="Subject line of the entire email would be here in bold. " transform="translate(259.126 24.63)" font-size="12" font-family="IBMPlexSans-SemiBold, IBM Plex Sans" font-weight="600"><tspan x="0" y="0">Subject line of the entire email would be here in bold. </tspan></text>
+      <text id="The_beginning_contents_of_the_email_would_appear_here._" data-name="The beginning contents of the email would appear here. " transform="translate(602.119 24.63)" fill="#878787" font-size="12" font-family="IBMPlexSans, IBM Plex Sans"><tspan x="0" y="0">The beginning contents of the email would appear here. </tspan></text>
+      <rect id="Rectangle_32" data-name="Rectangle 32" width="17.342" height="17.747" transform="translate(18.065 13.557)" fill="#e3e3e3" stroke="#b2b3b5" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+    <g id="Group_10" data-name="Group 10" transform="translate(522.591 185.631)">
+      <rect id="Rectangle_33" data-name="Rectangle 33" width="1006.341" height="43.382" fill="#efefef" stroke="#b2b3b5" stroke-miterlimit="10" stroke-width="3"/>
+      <text id="The_Sender_Goes_Here-2" data-name="The Sender Goes Here" transform="translate(54.871 24.631)" font-size="12" font-family="IBMPlexSans-SemiBold, IBM Plex Sans" font-weight="600"><tspan x="0" y="0">The Sender Goes Here</tspan></text>
+      <text id="Subject_line_of_the_entire_email_would_be_here_in_bold._2" data-name="Subject line of the entire email would be here in bold. " transform="translate(259.126 24.631)" font-size="12" font-family="IBMPlexSans-SemiBold, IBM Plex Sans" font-weight="600"><tspan x="0" y="0">Subject line of the entire email would be here in bold. </tspan></text>
+      <text id="The_beginning_contents_of_the_email_would_appear_here._2" data-name="The beginning contents of the email would appear here. " transform="translate(602.119 24.631)" fill="#878787" font-size="12" font-family="IBMPlexSans, IBM Plex Sans"><tspan x="0" y="0">The beginning contents of the email would appear here. </tspan></text>
+      <rect id="Rectangle_34" data-name="Rectangle 34" width="17.342" height="17.747" transform="translate(18.065 13.557)" fill="#e3e3e3" stroke="#b2b3b5" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+    <g id="Group_11" data-name="Group 11" transform="translate(522.591 229.365)">
+      <rect id="Rectangle_35" data-name="Rectangle 35" width="1006.341" height="43.382" fill="#efefef" stroke="#b2b3b5" stroke-miterlimit="10" stroke-width="3"/>
+      <text id="The_Sender_Goes_Here-3" data-name="The Sender Goes Here" transform="translate(54.871 24.632)" font-size="12" font-family="IBMPlexSans-SemiBold, IBM Plex Sans" font-weight="600"><tspan x="0" y="0">The Sender Goes Here</tspan></text>
+      <text id="Subject_line_of_the_entire_email_would_be_here_in_bold._3" data-name="Subject line of the entire email would be here in bold. " transform="translate(259.126 24.632)" font-size="12" font-family="IBMPlexSans-SemiBold, IBM Plex Sans" font-weight="600"><tspan x="0" y="0">Subject line of the entire email would be here in bold. </tspan></text>
+      <text id="The_beginning_contents_of_the_email_would_appear_here._3" data-name="The beginning contents of the email would appear here. " transform="translate(602.119 24.632)" fill="#878787" font-size="12" font-family="IBMPlexSans, IBM Plex Sans"><tspan x="0" y="0">The beginning contents of the email would appear here. </tspan></text>
+      <rect id="Rectangle_36" data-name="Rectangle 36" width="17.342" height="17.747" transform="translate(18.065 13.557)" fill="#e3e3e3" stroke="#b2b3b5" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+    <g id="Group_12" data-name="Group 12" transform="translate(522.591 273.1)">
+      <rect id="Rectangle_37" data-name="Rectangle 37" width="1006.341" height="43.382" fill="#efefef" stroke="#b2b3b5" stroke-miterlimit="10" stroke-width="3"/>
+      <text id="The_Sender_Goes_Here-4" data-name="The Sender Goes Here" transform="translate(54.871 24.63)" font-size="12" font-family="IBMPlexSans-SemiBold, IBM Plex Sans" font-weight="600"><tspan x="0" y="0">The Sender Goes Here</tspan></text>
+      <text id="Subject_line_of_the_entire_email_would_be_here_in_bold._4" data-name="Subject line of the entire email would be here in bold. " transform="translate(259.126 24.63)" font-size="12" font-family="IBMPlexSans-SemiBold, IBM Plex Sans" font-weight="600"><tspan x="0" y="0">Subject line of the entire email would be here in bold. </tspan></text>
+      <text id="The_beginning_contents_of_the_email_would_appear_here._4" data-name="The beginning contents of the email would appear here. " transform="translate(602.119 24.63)" fill="#878787" font-size="12" font-family="IBMPlexSans, IBM Plex Sans"><tspan x="0" y="0">The beginning contents of the email would appear here. </tspan></text>
+      <rect id="Rectangle_38" data-name="Rectangle 38" width="17.342" height="17.747" transform="translate(18.065 13.557)" fill="#e3e3e3" stroke="#b2b3b5" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+    <g id="Group_13" data-name="Group 13" transform="translate(522.591 316.834)">
+      <rect id="Rectangle_39" data-name="Rectangle 39" width="1006.341" height="43.382" fill="#efefef" stroke="#b2b3b5" stroke-miterlimit="10" stroke-width="3"/>
+      <text id="The_Sender_Goes_Here-5" data-name="The Sender Goes Here" transform="translate(54.871 24.632)" font-size="12" font-family="IBMPlexSans-SemiBold, IBM Plex Sans" font-weight="600"><tspan x="0" y="0">The Sender Goes Here</tspan></text>
+      <text id="Subject_line_of_the_entire_email_would_be_here_in_bold._5" data-name="Subject line of the entire email would be here in bold. " transform="translate(259.126 24.632)" font-size="12" font-family="IBMPlexSans-SemiBold, IBM Plex Sans" font-weight="600"><tspan x="0" y="0">Subject line of the entire email would be here in bold. </tspan></text>
+      <text id="The_beginning_contents_of_the_email_would_appear_here._5" data-name="The beginning contents of the email would appear here. " transform="translate(602.119 24.632)" fill="#878787" font-size="12" font-family="IBMPlexSans, IBM Plex Sans"><tspan x="0" y="0">The beginning contents of the email would appear here. </tspan></text>
+      <rect id="Rectangle_40" data-name="Rectangle 40" width="17.342" height="17.747" transform="translate(18.065 13.557)" fill="#e3e3e3" stroke="#b2b3b5" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+    <g id="Group_14" data-name="Group 14" transform="translate(522.591 360.568)">
+      <rect id="Rectangle_41" data-name="Rectangle 41" width="1006.341" height="43.382" fill="#efefef" stroke="#b2b3b5" stroke-miterlimit="10" stroke-width="3"/>
+      <text id="The_Sender_Goes_Here-6" data-name="The Sender Goes Here" transform="translate(54.871 24.631)" font-size="12" font-family="IBMPlexSans-SemiBold, IBM Plex Sans" font-weight="600"><tspan x="0" y="0">The Sender Goes Here</tspan></text>
+      <text id="Subject_line_of_the_entire_email_would_be_here_in_bold._6" data-name="Subject line of the entire email would be here in bold. " transform="translate(259.126 24.631)" font-size="12" font-family="IBMPlexSans-SemiBold, IBM Plex Sans" font-weight="600"><tspan x="0" y="0">Subject line of the entire email would be here in bold. </tspan></text>
+      <text id="The_beginning_contents_of_the_email_would_appear_here._6" data-name="The beginning contents of the email would appear here. " transform="translate(602.119 24.631)" fill="#878787" font-size="12" font-family="IBMPlexSans, IBM Plex Sans"><tspan x="0" y="0">The beginning contents of the email would appear here. </tspan></text>
+      <rect id="Rectangle_42" data-name="Rectangle 42" width="17.342" height="17.747" transform="translate(18.065 13.557)" fill="#e3e3e3" stroke="#b2b3b5" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+    <g id="Group_15" data-name="Group 15" transform="translate(522.591 404.303)">
+      <rect id="Rectangle_43" data-name="Rectangle 43" width="1006.341" height="43.382" fill="#efefef" stroke="#b2b3b5" stroke-miterlimit="10" stroke-width="3"/>
+      <text id="The_Sender_Goes_Here-7" data-name="The Sender Goes Here" transform="translate(54.871 24.632)" font-size="12" font-family="IBMPlexSans-SemiBold, IBM Plex Sans" font-weight="600"><tspan x="0" y="0">The Sender Goes Here</tspan></text>
+      <text id="Subject_line_of_the_entire_email_would_be_here_in_bold._7" data-name="Subject line of the entire email would be here in bold. " transform="translate(259.126 24.632)" font-size="12" font-family="IBMPlexSans-SemiBold, IBM Plex Sans" font-weight="600"><tspan x="0" y="0">Subject line of the entire email would be here in bold. </tspan></text>
+      <text id="The_beginning_contents_of_the_email_would_appear_here._7" data-name="The beginning contents of the email would appear here. " transform="translate(602.119 24.632)" fill="#878787" font-size="12" font-family="IBMPlexSans, IBM Plex Sans"><tspan x="0" y="0">The beginning contents of the email would appear here. </tspan></text>
+      <rect id="Rectangle_44" data-name="Rectangle 44" width="17.342" height="17.747" transform="translate(18.065 13.557)" fill="#e3e3e3" stroke="#b2b3b5" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+    <rect id="Rectangle_45" data-name="Rectangle 45" width="1006.341" height="43.382" transform="translate(522.591 448.037)" fill="#efefef" stroke="#b2b3b5" stroke-miterlimit="10" stroke-width="3"/>
+    <text id="The_Sender_Goes_Here-8" data-name="The Sender Goes Here" transform="translate(577.462 472.668)" font-size="12" font-family="IBMPlexSans-SemiBold, IBM Plex Sans" font-weight="600"><tspan x="0" y="0">The Sender Goes Here</tspan></text>
+    <text id="Subject_line_of_the_entire_email_would_be_here_in_bold._8" data-name="Subject line of the entire email would be here in bold. " transform="translate(781.717 472.668)" font-size="12" font-family="IBMPlexSans-SemiBold, IBM Plex Sans" font-weight="600"><tspan x="0" y="0">Subject line of the entire email would be here in bold. </tspan></text>
+    <text id="The_beginning_contents_of_the_email_would_appear_here._8" data-name="The beginning contents of the email would appear here. " transform="translate(1124.71 472.668)" fill="#878787" font-size="12" font-family="IBMPlexSans, IBM Plex Sans"><tspan x="0" y="0">The beginning contents of the email would appear here. </tspan></text>
+    <rect id="Rectangle_46" data-name="Rectangle 46" width="17.342" height="17.747" transform="translate(540.656 461.594)" fill="#e3e3e3" stroke="#b2b3b5" stroke-miterlimit="10" stroke-width="3"/>
+    <rect id="Rectangle_69" data-name="Rectangle 69" width="15" height="14" transform="translate(966 37)" fill="#7c7c7c"/>
+    <rect id="Rectangle_70" data-name="Rectangle 70" width="8" height="7" transform="translate(985 41)" fill="#fff"/>
+    <text id="YayMail" transform="translate(456 102)" fill="#fff" font-size="25" font-family="Silkscreen" letter-spacing="0.1em"><tspan x="0" y="0">YayMail</tspan></text>
+    <g id="Group_48" data-name="Group 48" transform="translate(11.947 750.149)">
+      <path id="Path_32" data-name="Path 32" d="M408.116-649.589c-.014.576-.03,1.153-.042,1.729,0,.247,0,.494,0,.787h-2.547v2.367h-2.474v-19.91h2.521v-2.533h27.517v2.515h2.45V-644.6h-2.425v2.447h-27.5v-2.45h27.44v-2.454h-2.407v-2.564h2.411v-12.507h-2.422v-2.528H408.074v2.486h2.433v2.472h-2.455v-2.414h-2.507v12.527h2.578Z" transform="translate(0)" fill="#fff"/>
+      <path id="Path_33" data-name="Path 33" d="M723.576-594.1v-2.473h2.454v2.454h-2.351v2.457h-2.55V-594.1Z" transform="translate(-295.506 -65.565)" fill="#fff"/>
+      <path id="Path_34" data-name="Path 34" d="M514.68-523.118h-2.415v2.438h-2.472v-2.452h2.427v-2.463h2.5c0,.3.005.6,0,.9-.011.529-.029,1.057-.044,1.585Z" transform="translate(-99.166 -131.51)" fill="#fff"/>
+      <path id="Path_35" data-name="Path 35" d="M720.817-491.419h2.5v2.483h-2.538c0-.3-.005-.6,0-.9.011-.528.03-1.056.046-1.585Z" transform="translate(-295.178 -163.254)" fill="#fff"/>
+      <path id="Path_36" data-name="Path 36" d="M512.22-559.257h-2.443V-561.7h2.443Z" transform="translate(-99.151 -97.963)" fill="#fff"/>
+      <path id="Path_37" data-name="Path 37" d="M473.491-452.135a1.344,1.344,0,0,1-.073-.3c-.006-.719,0-1.439,0-2.184h2.471v2.478h-2.4Z" transform="translate(-65.368 -197.447)" fill="#fff"/>
+      <path id="Path_38" data-name="Path 38" d="M758.2-452.173h-2.444v-2.435H758.2Z" transform="translate(-327.676 -197.459)" fill="#fff"/>
+      <path id="Path_39" data-name="Path 39" d="M688.832-523.259H686.34v-2.431h2.483c0,.821,0,1.63,0,2.438Z" transform="translate(-263.185 -131.421)" fill="#fff"/>
+      <path id="Path_40" data-name="Path 40" d="M578.544-490.684h2.492v2.419h-2.482q0-1.214,0-2.427Z" transform="translate(-163.038 -163.936)" fill="#fff"/>
+      <path id="Path_41" data-name="Path 41" d="M652.865-490.539v2.421h-2.434v-2.421Z" transform="translate(-229.824 -164.078)" fill="#fff"/>
+      <path id="Path_42" data-name="Path 42" d="M617.9-454.694v2.435h-2.434v-2.435Z" transform="translate(-197.342 -197.379)" fill="#fff"/>
+    </g>
+    <rect id="Rectangle_84" data-name="Rectangle 84" width="190" height="30" transform="translate(1312 79)" fill="#fff"/>
+    <text id="John_Doe_secretary_" data-name="John Doe (secretary)" transform="translate(1322.669 97.139)" font-size="12" font-family="Silkscreen"><tspan x="0" y="0">John Doe (secretary)</tspan></text>
+    <g id="Group_49" data-name="Group 49" transform="translate(-28 -7)">
+      <g id="Group_50" data-name="Group 50" transform="translate(1510.752 74.656)">
+        <path id="Path_14" data-name="Path 14" d="M1897.909,142.607a26.123,26.123,0,1,1-26.123-26.122A26.012,26.012,0,0,1,1897.909,142.607Z" transform="translate(-1845.664 -116.485)" fill="#fff"/>
+        <g id="Mask_Group_1" data-name="Mask Group 1" clip-path="url(#clip-path)">
+          <image id="IMG_0088" width="49.262" height="49.262" transform="translate(1.708 3.207)" xlink:href="data:image/png;base64,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"/>
+        </g>
+      </g>
+    </g>
+    <rect id="Rectangle_107" data-name="Rectangle 107" width="1920" height="1080" transform="translate(-4 1)" fill="#2c2c2c" opacity="0.753"/>
+    <g id="Group_83" data-name="Group 83" transform="translate(-624 -297)">
+      <g transform="matrix(1, 0, 0, 1, 624, 297)" filter="url(#Rectangle_108)">
+        <rect id="Rectangle_108-2" data-name="Rectangle 108" width="396.367" height="133.481" transform="translate(441 480)" fill="#ffef76"/>
+      </g>
+      <text id="That_s_about_it_Let_s_get_go_through_some_examples_" data-name="That’s about it! Let’s get go through some examples!" transform="translate(1097 809)" fill="#575757" font-size="27" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="25">That’s about it! Let’s get go </tspan><tspan x="0" y="59">through some examples!</tspan></text>
+      <g id="Group_78" data-name="Group 78" transform="translate(859 323)">
+        <g transform="matrix(1, 0, 0, 1, -235, -26)" filter="url(#Rectangle_109)">
+          <rect id="Rectangle_109-2" data-name="Rectangle 109" width="89.367" height="73.481" transform="translate(748 625)" fill="#67b3ff"/>
+        </g>
+        <path id="Path_58" data-name="Path 58" d="M-43.592-735.831v2.993l3.015.211v2.91l3.032.136.218,2.977h2.9l.141,3.029,2.979.219v2.9l3.027.141.216,2.982h2.845v3.023l-2.857.147v2.906l-3.1.207-.14,2.909h-2.908l-.211,3.113h-2.908v3.032l-3.113.219v2.911l-3.038.135-.209,2.934H-46.68v-40.035Z" transform="translate(595.678 1351.114)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

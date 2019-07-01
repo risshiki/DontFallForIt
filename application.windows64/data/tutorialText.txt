@@ -1,0 +1,4 @@
+Urgent Action: These scams want you to act quickly before you have time to think about the situation clearly. An example is something like “your bank account is about to be closed” or “your credit card has unauthorized charges”
+Spelling and Grammar: Emails with very clear spelling or grammar mistakes should raise suspicion. Large companies will carefully edit their messages for spelling and grammar issues before sending them out. 
+Sender Address: Large companies will have an official email address with their name in the correct spelling without extraneous words. Make sure the sender address is legitimate before trusting the contents of the email. 
+Link to a Website: Phishing emails will often include a link that they want you to go to and fill out your personal information. They will often say it is for “validation”.
